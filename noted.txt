@@ -1,0 +1,12 @@
+    // String
+    // strlen()
+    // strcmp()
+    // explode()
+    // htmlspecialchars()
+
+    // utility
+    // var_dump()
+    // isset()
+    // empty()
+    // die()
+    // sleep()
